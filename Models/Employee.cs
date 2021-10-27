@@ -14,7 +14,6 @@ namespace BlazorFront358.Models
         public DateTime  DateOfBirth{ get; set; }
         public int Gender { get; set; }
         public int DepartmentId { get; set; }
-        public string DepartmentName { get; set; }
-        public string PhotoPath { get; set; }
+        public string PhotoPath { get; set; } 
     }
 }

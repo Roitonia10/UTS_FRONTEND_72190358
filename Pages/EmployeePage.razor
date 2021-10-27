@@ -8,7 +8,6 @@
             <th>Employee Id</th>
             <th>First Name</th>
             <th>Department Id</th>
-            <th>Department Name</th>
             <th>View</th>
         </tr>
     </thead>
@@ -18,7 +17,6 @@
                 <td>@emp.EmployeeId</td>
                 <td>@emp.FirstName</td>
                 <td>@emp.DepartmentId</td>
-                <td>@emp.DepartmentName</td>
                 <td><a href="@($"employeedetail/{emp.EmployeeId}")"class ="btn btn-primary">detail</a></td>
             </tr>
         }

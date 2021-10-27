@@ -18,7 +18,7 @@ namespace BlazorFront358.Pages
 
         protected override async Task OnInitializedAsync()
         {
-            id = id ?? "2";
+            id = id ?? "1";
             Department = await DepartmentService.GetById(int.Parse(id));
         }
     }

@@ -180,6 +180,39 @@
         }
       },
       {
+        "HashCode": 1604016017,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront358.Pages.Counter",
+        "AssemblyName": "BlazorFront358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront358.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1277214773,
+        "Kind": "Components.Component",
+        "Name": "BlazorFront358.Pages.Counter",
+        "AssemblyName": "BlazorFront358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFront358.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFront358.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1906774082,
         "Kind": "Components.Component",
         "Name": "BlazorFront358.Pages.FetchData",
@@ -242,39 +275,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFront358.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1604016017,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront358.Pages.Counter",
-        "AssemblyName": "BlazorFront358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront358.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1277214773,
-        "Kind": "Components.Component",
-        "Name": "BlazorFront358.Pages.Counter",
-        "AssemblyName": "BlazorFront358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFront358.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFront358.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
